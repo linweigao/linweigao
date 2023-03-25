@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I love to play video games, maybe I should make a game to enjoy myself
 - 🥅 2021 Goals: Build a video game for myself. Ready~~~ go!
 - 👯 I’m looking to collaborate with other game fans
+- More about me at [here][portfolio]
 
 ### Languages and Tools:
 
@@ -33,3 +34,4 @@
 [guessgit]:https://github.com/linweigao/guess
 [guessAppStore]:https://apps.apple.com/cn/app/%E8%84%91%E6%B4%9E%E5%A4%A7%E7%8C%9C/id1627959353
 [guessWeb]:https://linweigao.github.io/guess/#/info
+[portfolio]:https://linweigao.github.io/portfolio/
